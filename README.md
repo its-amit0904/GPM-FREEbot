@@ -1,12 +1,7 @@
 # FREEBOT (Frugal Robot Engineered from Efficient and Budget Optimised Technology)
 FREEBOT is an open-source robot that aims to make robotics easy and affordable. This project is great for beginners who want to learn robotics and IoT. We will also implement some basic computer vision concepts. 
 Note:- Robot firmware is the same for all the computer version projects that I have shown. Only the python file running on the PC is different so you can refer to the Part-1 of the project to build the FREEBOT.
-<img src="https://github.com/sastejugaad/FREEBOT/blob/main/Circuit_diagram_v1.png" width="50%" height="50%">
-
-# Tutorial series
-- Part-1 [https://www.youtube.com/watch?v=SvNt3h0w55A&ab_channel=SasteJugaad](https://youtu.be/ymNAXm_j8do?si=0M8imzcQLlhn9ULn)
-- Part-2 https://youtu.be/j49aA8wwWxY?si=1lki8r9_ucNTEMC0
-- Part-3 https://youtu.be/SvNt3h0w55A?si=uS_L-zJ2iLNq51DY
+<img src="https://github.com/its-amit0904/GPM-FREEbot/blob/main/Circuit_diagram_v1.png" width="50%" height="50%">
 
 # Handtracker
 
@@ -100,4 +95,5 @@ https://www.youtube.com/watch?v=mBaS3YnqDaU&ab_channel=RuiSantos
 https://www.youtube.com/watch?v=dyjo_ggEtVU&ab_channel=DroneBotWorkshop
 
 # SOCIAL
-https://www.youtube.com/channel/UCe5G9yS2XvetGfjfT-O89vw
+
+https://www.instagram.com/_.its._.amit.__/
